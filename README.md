@@ -16,10 +16,10 @@ The *Microbit Man in the Middle Attack* is a rudimentary arduino workshop design
 
 ## Contents
 
-* '''HTD_CaesarShift.docx''' - Sample Worksheet Aide for teaching Ceasar Shift
-* '''HTD_Cybersecurity.pptx''' - Accompanying powerpoint slides with step by step instructions
-* '''microbit-MitM (3).hex''' - Man in the Middle sample code
-* '''microbit-crypto.hex''' - Radio Communicator sample code
+* ```HTD_CaesarShift.docx``` - Sample Worksheet Aide for teaching Ceasar Shift
+* ```HTD_Cybersecurity.pptx``` - Accompanying powerpoint slides with step by step instructions
+* ```microbit-MitM (3).hex``` - Man in the Middle sample code
+* ```microbit-crypto.hex``` - Radio Communicator sample code
 
 ## Material Requirements
 
